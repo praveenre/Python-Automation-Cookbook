@@ -1,3 +1,6 @@
+
+
+
 # Python Automation Cookbook
 
 <a href="https://www.packtpub.com/application-development/python-automation-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781789133806 "> <img src="https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B10858.png" alt="Python Automation Cookbook" height="256px" align="right"></a>
@@ -65,3 +68,7 @@ has been a professional programmer and a full-time Python developer and has been
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
 
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781800207080">https://packt.link/free-ebook/9781800207080 </a> </p>
